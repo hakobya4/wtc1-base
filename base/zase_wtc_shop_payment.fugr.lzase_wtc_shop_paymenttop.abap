@@ -1,3 +1,0 @@
-FUNCTION-POOL ZASE_WTC_SHOP_PAYMENT.         "MESSAGE-ID ..
-
-* INCLUDE LASE_WTC_SHOP_PAYMENTD...          " Local class definition
